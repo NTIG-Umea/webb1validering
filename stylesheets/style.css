@@ -1,0 +1,51 @@
+body {
+  background-image: url('c:\code\wu1-validation\img/IMG_20200727_113945.jpg');
+  background-size: cover;
+  background-color: #666666;
+  font-size: 1;
+  font-family: 'Montserrat, sans-serif;
+  font-weight: 400;
+}
+
+main, header, footer {
+  width: 80%;
+  margin: 0 auto;
+  padding: 1rem;
+  background-color: rgba(66, 66, 66, 0.4);
+  color: #efefef;
+}
+
+footer {
+  paddin-top: 3rem;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+.h2 {
+  border-bottom: 2px solid #efefef;
+} 
+
+.lead {
+  font-size: 1.4rem;
+}
+
+.info {
+  float: right;
+  margin: 1rem
+}
+
+.info < h3 {
+  color: #efefef;
+  background-color: #666666;
+  margin-bottom: 0.2;
+}
+
+.footer {
+
+}
