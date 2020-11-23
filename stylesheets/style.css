@@ -12,12 +12,20 @@ body {
   width: 80%;
   margin: 0 auto;
   padding: 1rem;
-  background-color: rgba(66, 66, 66, 0.664);
+  background-color: rgba(66, 66, 66, 0.76);
   color: #efefef;
 }
 
 .hrefnav:link, .hrefnav:visited, .hrefnav:hover, .hrefnav:active {
   color: white;
+}
+
+.refhref:link, .refhref:visited, .refhref:active {
+  color: rgb(81, 191, 255);
+}
+
+.refhref:hover {
+  color: rgb(195, 241, 255);
 }
 
 ul {
