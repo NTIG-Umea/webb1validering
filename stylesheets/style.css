@@ -1,13 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
 body {
   background-image: url('c:\code\wu1-validation\img/IMG_20200727_113945.jpg');
   background-size: cover;
   background-color: #666666;
   font-size: 1;
-  font-family: 'Montserrat, sans-serif;
+  font-family: 'Montserrat, sans-serif';
   font-weight: 400;
 }
 
-main, header, footer {
+.page {
   width: 80%;
   margin: 0 auto;
   padding: 1rem;
@@ -16,7 +18,7 @@ main, header, footer {
 }
 
 footer {
-  paddin-top: 3rem;
+  padding-top: 3rem;
 }
 
 p {
@@ -24,12 +26,19 @@ p {
 }
 
 h1 {
+  text-align: center;
   font-size: 3rem;
+  font-family: 'Montserrat', sans-serif;
 }
 
-.h2 {
+h2 {
   border-bottom: 2px solid #efefef;
 } 
+
+.geotitle {
+  width: 75%;
+}
+
 
 .lead {
   font-size: 1.4rem;
@@ -40,12 +49,8 @@ h1 {
   margin: 1rem
 }
 
-.info < h3 {
+.info h3 {
   color: #efefef;
-  background-color: #666666;
   margin-bottom: 0.2;
 }
 
-.footer {
-
-}
