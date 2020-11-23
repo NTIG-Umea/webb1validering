@@ -1,9 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 
 body {
-  background-image: url('c:\code\wu1-validation\img/IMG_20200727_113945.jpg');
+  background-image: url(/img/bg.jpg);
   background-size: cover;
-  background-color: #666666;
   font-size: 1;
   font-family: 'Montserrat, sans-serif';
   font-weight: 400;
@@ -13,7 +12,7 @@ body {
   width: 80%;
   margin: 0 auto;
   padding: 1rem;
-  background-color: rgba(66, 66, 66, 0.4);
+  background-color: rgba(66, 66, 66, 0.664);
   color: #efefef;
 }
 
@@ -38,6 +37,7 @@ footer {
 
 p {
   font-family: 'Montserrat', sans-serif;
+  line-height: 25px;
 }
 
 h1 {
@@ -50,8 +50,8 @@ h2 {
   border-bottom: 2px solid #efefef;
 } 
 
-.geotitle {
-  width: 75%;
+.shorterborder {
+  width: 80%;
 }
 
 
