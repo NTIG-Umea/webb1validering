@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 
 body {
-  background-image: url(/stylesheets/img/bg.jpg);
+  background-image: url("../img/bgrezised.jpg");
   background-size: cover;
   font-family: 'Montserrat, sans-serif';
   font-weight: 400;
