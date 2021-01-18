@@ -1,5 +1,15 @@
 Validering Documentation
 
-Jag började med att fixa teckenkodningen av dokumentet så jag hade någoting att jobba ifrån. När enkodingen var rätt så framstod det att det fanns många problem med texten på hemsidan. Jag fixade textfärg, teckensnitt, radavstånd, rubriker, etc och efter det så fixade jag till länkarna till navigationen så att de fungerar, men så att de också ser bra ut när man klickar på dem. (aka, de är inte rosa). Länkarna som användes till referenserna kontrollerade jag också snabbt så allt var välstrukturerat och fungerande. 
-
-Jag lade sedan in bakgrundsfilen och gjorde några fler ändringar till läsbarheten av min text. Jag stylade också mina referenslänkar så de såg ut som jag hade tänkt mig. Efter det minskade jag transparency på min gråa bakgrund så att bakgrundsbilden blev synlig igenom. Jag resizeade sedan den stora bilden till ett mer webbvänligt format och fixade några problem jag hade med den relativa sögvägen till bilderna. Sist så fixade jag också min dokument titel till "Döda fallet" och inte "dokument".
+• Teckenkodningen av dokumentet 
+• textfärg 
+• teckensnitt
+• radavstånd
+• rubriker 
+• länkarna till navigationen 
+• ser bra ut när man klickar på dem. (aka, de är inte rosa).
+• lade in bakgrundsfilen och gjorde några fler ändringar till läsbarheten av min text.
+• stylade mina referenslänkar så de såg ut som jag hade tänkt mig. 
+• jag minskade transparency på min gråa bakgrund så att bakgrundsbilden blev synlig igenom. 
+• resizeade den stora bilden till ett mer webbvänligt format 
+• fixade några problem jag hade med den relativa sögvägen till bilderna. 
+• fixade min dokument titel till "Döda fallet" och inte "dokument".
