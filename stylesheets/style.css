@@ -17,6 +17,8 @@ body {
   color: #efefef;
 }
 
+
+
 .hrefnav:link, .hrefnav:visited, .hrefnav:hover, .hrefnav:active {
   color: white;
 }
@@ -70,11 +72,26 @@ h2 {
 
 .info {
   float: right;
-  margin: 1rem
+  margin-right: 1rem;
+  margin-left: 1rem;
 }
 
 .info h3 {
   color: #efefef;
   margin-bottom: 0.2px;
+}
+
+
+@media only screen and (max-width: 1000px) {
+  .page {
+    width: 100%;
+  }
+  body {
+    margin: 0px;
+    background-attachment: fixed;
+  }
+  .info {
+    float: none;
+  }
 }
 
