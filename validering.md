@@ -25,3 +25,6 @@
 • fixade några problem jag hade med den relativa sögvägen till bilderna. 
 
 • fixade min dokument titel till "Döda fallet" och inte "dokument".
+
+https://validator.nu/?doc=https%3A%2F%2Fntig-umea.github.io%2Fwebb1validering%2F
+https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fntig-umea.github.io%2Fwebb1validering%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv
